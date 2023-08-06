@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  border: none;
+  background-color: #eae6da;
+  color: #cd3c2a;
+}
+body {
+  background-color: #cd3c2a;
+  color: #eae6da;
+}
+.glyphicon {
+  font-size: 30px;
+  color: #cd3c2a;
+}
+
+.center {
+  width: 90%;
+  background-color: #21211f;
+}
+.container {
+  background-color: #da9b68;
+  color: #21211f;
+}
+.text-center {
+  font-size: 30px;
+}
+h1 {
+  color: #21211f;
+}
+
+h2 {
+  text-align: center;
+  color: #21211f;
+}
+#myNavbar ul li a {
+  color: #61122f;
+}
+.navbar-brand {
+  font-size: 40px;
+  color: #21211f;
+}
+span {
+  font-size: 44px;
+}
